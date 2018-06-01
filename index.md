@@ -1,5 +1,5 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
-<meta http-equiv="content-type" content="text/html; charset=gbk" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <p style="text-align: left;">
     <strong style="color: rgb(63, 63, 63);"><span style="font-family: 微软雅黑;">1.</span></strong><strong style="color: rgb(63, 63, 63);"><span style="font-family: 微软雅黑;">【协议说明】</span></strong><br/>
 </p>
